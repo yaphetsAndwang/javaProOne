@@ -1,0 +1,12 @@
+C:\WorkProject\ViKeySDK\4-[示例程序]\C#\C#_VS2013\ViKeySample\bin\Debug\ViKeySample.exe.config
+C:\WorkProject\ViKeySDK\4-[示例程序]\C#\C#_VS2013\ViKeySample\bin\Debug\ViKeySample.exe
+C:\WorkProject\ViKeySDK\4-[示例程序]\C#\C#_VS2013\ViKeySample\bin\Debug\ViKeySample.pdb
+C:\WorkProject\ViKeySDK\4-[示例程序]\C#\C#_VS2013\ViKeySample\obj\Debug\ViKeySample.csprojResolveAssemblyReference.cache
+C:\WorkProject\ViKeySDK\4-[示例程序]\C#\C#_VS2013\ViKeySample\obj\Debug\ViKeySample.exe
+C:\WorkProject\ViKeySDK\4-[示例程序]\C#\C#_VS2013\ViKeySample\obj\Debug\ViKeySample.pdb
+C:\Users\Administrator\Desktop\C#_VS2013\ViKeySample\bin\Debug\ViKeySample.exe.config
+C:\Users\Administrator\Desktop\C#_VS2013\ViKeySample\obj\Debug\ViKeySample.exe
+C:\Users\Administrator\Desktop\C#_VS2013\ViKeySample\obj\Debug\ViKeySample.pdb
+C:\Users\Administrator\Desktop\C#_VS2013\ViKeySample\bin\Debug\ViKeySample.exe
+C:\Users\Administrator\Desktop\C#_VS2013\ViKeySample\bin\Debug\ViKeySample.pdb
+C:\Users\Administrator\Desktop\C#_VS2013\ViKeySample\obj\Debug\ViKeySample.csprojResolveAssemblyReference.cache
